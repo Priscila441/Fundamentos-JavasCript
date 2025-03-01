@@ -1,0 +1,13 @@
+# Ignorar dependencias
+node_modules/
+
+# Ignorar archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos de entorno
+.env
